@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\bin\Debug\netcoreapp2.2\Gonderici.deps.json
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\bin\Debug\netcoreapp2.2\Gonderici.runtimeconfig.json
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\bin\Debug\netcoreapp2.2\Gonderici.runtimeconfig.dev.json
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\bin\Debug\netcoreapp2.2\Gonderici.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.AssemblyInfo.cs
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\bin\Debug\netcoreapp2.2\Gonderici.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.Properties.Resources.resources
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Gonderici\obj\Debug\netcoreapp2.2\Gonderici.pdb

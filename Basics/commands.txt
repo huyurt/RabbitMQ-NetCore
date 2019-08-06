@@ -1,0 +1,10 @@
+Default port: 15672
+
+Enable dashboard: rabbitmq-plugins enable rabbitmq_management
+Enable service: rabbitmqctl start_app
+Stop service: rabbitmqctl stop_app
+Reset service: rabbitmqctl reset
+
+Add user: rabbitmqctl add_user [username] [password]
+Set user to admin: rabbitmqctl set_user_tags [username] administrator
+Set user's permissions: rabbitmqctl set_permissions -p / [username] ".*" ".*" ".*"

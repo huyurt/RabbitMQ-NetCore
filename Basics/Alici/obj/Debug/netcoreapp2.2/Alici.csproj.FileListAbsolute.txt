@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\bin\Debug\netcoreapp2.2\Alici.deps.json
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\bin\Debug\netcoreapp2.2\Alici.runtimeconfig.json
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\bin\Debug\netcoreapp2.2\Alici.runtimeconfig.dev.json
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\bin\Debug\netcoreapp2.2\Alici.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.AssemblyInfo.cs
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.Properties.Resources.resources
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\bin\Debug\netcoreapp2.2\Alici.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\Basics\Alici\obj\Debug\netcoreapp2.2\Alici.pdb
