@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\bin\Debug\netcoreapp2.2\IoC.deps.json
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\bin\Debug\netcoreapp2.2\IoC.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\obj\Debug\netcoreapp2.2\IoC.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\obj\Debug\netcoreapp2.2\IoC.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\obj\Debug\netcoreapp2.2\IoC.AssemblyInfo.cs
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\bin\Debug\netcoreapp2.2\IoC.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\bin\Debug\netcoreapp2.2\Banka.Application.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\bin\Debug\netcoreapp2.2\Banka.Data.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\bin\Debug\netcoreapp2.2\Banka.Application.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\bin\Debug\netcoreapp2.2\Banka.Data.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\obj\Debug\netcoreapp2.2\IoC.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\obj\Debug\netcoreapp2.2\IoC.csproj.CopyComplete
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\obj\Debug\netcoreapp2.2\IoC.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\IoC\obj\Debug\netcoreapp2.2\IoC.pdb

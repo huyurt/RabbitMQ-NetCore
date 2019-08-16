@@ -8,3 +8,4 @@ C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Data\obj\Debug\n
 C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Data\obj\Debug\netcoreapp2.2\Banka.Data.AssemblyInfo.cs
 C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Data\obj\Debug\netcoreapp2.2\Banka.Data.dll
 C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Data\obj\Debug\netcoreapp2.2\Banka.Data.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Data\obj\Debug\netcoreapp2.2\Banka.Data.csprojAssemblyReference.cache
