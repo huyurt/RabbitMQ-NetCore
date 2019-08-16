@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\bin\Debug\netcoreapp2.2\Banka.Api.deps.json
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\bin\Debug\netcoreapp2.2\Banka.Api.runtimeconfig.json
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\bin\Debug\netcoreapp2.2\Banka.Api.runtimeconfig.dev.json
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\bin\Debug\netcoreapp2.2\Banka.Api.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\bin\Debug\netcoreapp2.2\Banka.Api.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\bin\Debug\netcoreapp2.2\Banka.Data.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\bin\Debug\netcoreapp2.2\Banka.Data.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.AssemblyInfo.cs
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.RazorTargetAssemblyInfo.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.csproj.CopyComplete
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Api\obj\Debug\netcoreapp2.2\Banka.Api.pdb

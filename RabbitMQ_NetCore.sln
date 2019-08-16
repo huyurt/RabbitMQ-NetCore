@@ -5,9 +5,17 @@ VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basics", "Basics", "{33ECBB51-6992-4D5F-962B-48E9FB52C5A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alici", "Basics\Alici\Alici.csproj", "{A3A1171A-549E-44CA-A2B5-90BD03AEF9E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alici", "Basics\Alici\Alici.csproj", "{A3A1171A-549E-44CA-A2B5-90BD03AEF9E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gonderici", "Basics\Gonderici\Gonderici.csproj", "{682756A6-BA70-40E1-8037-EAB598CD7195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gonderici", "Basics\Gonderici\Gonderici.csproj", "{682756A6-BA70-40E1-8037-EAB598CD7195}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BankaUygulamasi", "BankaUygulamasi", "{3AAD9A9C-E4D2-4F2B-95ED-8D6D6E20BBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banka.Api", "BankaUygulamasi\Banka.Api\Banka.Api.csproj", "{1B333CE7-FFDC-46F5-9634-3F3DFA786999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banka.Data", "BankaUygulamasi\Banka.Data\Banka.Data.csproj", "{240EED73-8B18-43C5-9498-75067033D057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banka.Application", "BankaUygulamasi\Banka.Application\Banka.Application.csproj", "{C1C822C1-B85A-4A44-ADD9-C515DE57D337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +31,18 @@ Global
 		{682756A6-BA70-40E1-8037-EAB598CD7195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{682756A6-BA70-40E1-8037-EAB598CD7195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{682756A6-BA70-40E1-8037-EAB598CD7195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B333CE7-FFDC-46F5-9634-3F3DFA786999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B333CE7-FFDC-46F5-9634-3F3DFA786999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B333CE7-FFDC-46F5-9634-3F3DFA786999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B333CE7-FFDC-46F5-9634-3F3DFA786999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240EED73-8B18-43C5-9498-75067033D057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240EED73-8B18-43C5-9498-75067033D057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240EED73-8B18-43C5-9498-75067033D057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240EED73-8B18-43C5-9498-75067033D057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C822C1-B85A-4A44-ADD9-C515DE57D337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C822C1-B85A-4A44-ADD9-C515DE57D337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C822C1-B85A-4A44-ADD9-C515DE57D337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C822C1-B85A-4A44-ADD9-C515DE57D337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +50,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A3A1171A-549E-44CA-A2B5-90BD03AEF9E5} = {33ECBB51-6992-4D5F-962B-48E9FB52C5A1}
 		{682756A6-BA70-40E1-8037-EAB598CD7195} = {33ECBB51-6992-4D5F-962B-48E9FB52C5A1}
+		{1B333CE7-FFDC-46F5-9634-3F3DFA786999} = {3AAD9A9C-E4D2-4F2B-95ED-8D6D6E20BBCD}
+		{240EED73-8B18-43C5-9498-75067033D057} = {3AAD9A9C-E4D2-4F2B-95ED-8D6D6E20BBCD}
+		{C1C822C1-B85A-4A44-ADD9-C515DE57D337} = {3AAD9A9C-E4D2-4F2B-95ED-8D6D6E20BBCD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8FD05C4-46AB-46F2-BA8C-6C320D75A7D4}

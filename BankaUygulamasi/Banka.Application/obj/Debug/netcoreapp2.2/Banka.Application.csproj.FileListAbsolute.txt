@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\bin\Debug\netcoreapp2.2\Banka.Application.deps.json
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\bin\Debug\netcoreapp2.2\Banka.Application.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\bin\Debug\netcoreapp2.2\Banka.Application.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\bin\Debug\netcoreapp2.2\Banka.Data.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\bin\Debug\netcoreapp2.2\Banka.Data.pdb
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\obj\Debug\netcoreapp2.2\Banka.Application.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\obj\Debug\netcoreapp2.2\Banka.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\obj\Debug\netcoreapp2.2\Banka.Application.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\obj\Debug\netcoreapp2.2\Banka.Application.AssemblyInfo.cs
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\obj\Debug\netcoreapp2.2\Banka.Application.csproj.CopyComplete
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\obj\Debug\netcoreapp2.2\Banka.Application.dll
+C:\Users\PC\source\repos\RabbitmqTutorial\BankaUygulamasi\Banka.Application\obj\Debug\netcoreapp2.2\Banka.Application.pdb
