@@ -1,0 +1,31 @@
+update system:
+	sudo apt-get update
+	sudo apt-get upgrade
+
+install erlang:
+	wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb
+	sudo dpkg -i erlang-solutions_1.0_all.deb
+	sudo apt-get update
+	sudo apt-get install esl-erlang
+verify erl:
+	erl (quit erlang shell: ctrl+c)
+
+install rabbitmq:
+	echo "deb https://dl.bintray.com/rabbitmq/debian xenial main" | sudo tee /etc/apt/sources.list.d/bintray.rabbitmq.list
+	wget -O- https://www.rabbitmq.com/rabbitmq-release-signing-key.asc | sudo apt-key add -
+	sudo apt-get update
+	sudo apt-get install rabbitmq-server
+
+start server:
+	sudo systemctl start rabbitmq-server.service
+	sudo systemctl enable rabbitmq-server.service
+check status:
+	sudo rabbitmqctl status
+enable management console:
+	sudo rabbitmq-plugins enable rabbitmq_management
+	sudo chown -R rabbitmq:rabbitmq /var/lib/rabbitmq/
+add user:
+	sudo rabbitmqctl add_user [username] [password]
+	sudo rabbitmqctl set_user_tags [username] administrator
+	sudo rabbitmqctl set_permissions -p / [username] ".*" ".*" ".*"
+	

@@ -16,7 +16,7 @@ namespace Gonderici
             var connection = connectionFactory.CreateConnection();
             var channel = connection.CreateModel();
             string kuyruk = "TestKuyruğu";
-            channel.QueueDeclare(kuyruk, false, false, false, null);
+            channel.QueueDeclare(kuyruk, true, false, false, null);
 
             string mesaj = "Kuyruğa gönderilen, kuyruktan gelen mesaj";
             var mesajByte = Encoding.UTF8.GetBytes(mesaj);
@@ -24,7 +24,6 @@ namespace Gonderici
             channel.BasicPublish("", kuyruk, null, mesajByte);
 
             Console.WriteLine("Mesaj gönderildi: " + mesaj);
-            Console.ReadLine();
         }
     }
 }
