@@ -29,3 +29,7 @@ add user:
 	sudo rabbitmqctl set_user_tags [username] administrator
 	sudo rabbitmqctl set_permissions -p / [username] ".*" ".*" ".*"
 	
+---------------------------------------------------
+installation rabbitmq problem:
+	sudo apt-get purge rabbitmq-server
+	sudo rm -fr /var/lib/rabbitmq/
